@@ -1,0 +1,19 @@
+{
+  "name": "malinga-crop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CliffordMarley/crop-prices-embeded.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CliffordMarley/crop-prices-embeded/issues"
+  },
+  "homepage": "https://github.com/CliffordMarley/crop-prices-embeded#readme"
+}
