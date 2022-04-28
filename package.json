@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/CliffordMarley/crop-prices-embeded/issues"
   },
-  "homepage": "https://github.com/CliffordMarley/crop-prices-embeded#readme"
+  "homepage": "https://github.com/CliffordMarley/crop-prices-embeded#readme",
+  "dependencies": {
+    "express": "^4.18.0"
+  }
 }
